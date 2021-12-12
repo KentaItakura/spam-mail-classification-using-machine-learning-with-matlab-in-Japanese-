@@ -5,11 +5,7 @@
 
 # 注意
 
-筆者はこの分野の全くの素人で、あくまで「入門してみた」という記事になります。間違いなどがあれば、教えていただけますと幸いです。
-
-こちらの記事で用いたコードはこちらにアップデートしています。何かの役に立てば嬉しいです。
-
-https://github.com/KentaItakura/spam-mail-classification-using-machine-learning-with-matlab-in-Japanese-
+筆者はこの分野の全くの素人で、あくまで「入門してみた」という記事になります。間違いなどがあれば、教えていただけますと幸いです。このREADMEファイルではナイーブベイズの例のみを扱います。
 
 この例のほかにLSTM(long short term memory)と呼ばれる手法を用いたものもアップロードしてあります。
 
