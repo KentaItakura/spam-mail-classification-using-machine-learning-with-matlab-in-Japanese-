@@ -1,7 +1,7 @@
+[![View 機械学習による迷惑メールの分類 on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://jp.mathworks.com/matlabcentral/fileexchange/74531)
 # ナイーブベイズを用いた迷惑メールの検出
 
 この例では、ナイーブベイズやLSTMと呼ばれる手法を用いて、その文面から迷惑メールかどうかを判別します。前半では、メール本文の各単語の出現頻度とナイーブベイズを用いて、迷惑メールの分類を行います。後半では、事前学習ネットワークを用いて単語をベクトル表現に変換し、それをもとに深層学習（LSTM)をもちいて分類します。
-前半のナイーブベイズを用いた方法に関してはこちらの記事を参考にさせていただきました。
 
 # 注意
 
